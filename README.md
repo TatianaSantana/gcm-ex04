@@ -3,4 +3,4 @@
 # Gestão de Configuração
 Exercício 4 de GCM
 
-Autora^: Tatiana
+Autora: Tatiana
