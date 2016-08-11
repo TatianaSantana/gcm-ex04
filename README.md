@@ -1,6 +1,10 @@
 # gcm-ex04
-# Exercício 04
+# Exercício 05
 # Gestão de Configuração
-Exercício 4 de GCM
+Exercício 5 de GCM
 
-Autora: Tatiana
+* Atualização do arquivo no git
+
+* Verificar se as alterações são exibidas
+
+Autora: Tatiana Santana
