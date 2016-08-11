@@ -1,0 +1,5 @@
+# Gerenciamento do controle de mudanças do  PSystem
+
+* O controle será feito via baselines de acordo com as classificações das características;
+* O Merge será realizado uma vez ao dia;
+* Desenvolvedores não podem alterar os mesmos arquivos. 
