@@ -1,4 +1,4 @@
-# gcm-ex04
+# gcm-ex05
 # Exercício 05
 # Gestão de Configuração
 Exercício 5 de GCM
